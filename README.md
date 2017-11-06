@@ -10,7 +10,7 @@ I don't know what is the exact license of this logo, it stated in wayback machin
 > The Logo is designed by Manfred Spiller.
 >Anyone may use these logos freely for any purpose and in any way. Attribution of the logos to their creator is not necessary but will be appreciated. 
 
-I hope Manfred Spiller allowing me to make the svg version of the logo, if something bad happened I will adapt the logo of [JSCL](https://github.com/jscl-project/jscl)
-made by [flaming_bird](https://www.reddit.com/r/lisp/comments/638olj/common_lisp_an_elusive_language_the_logotypes/)
+I hope Manfred Spiller allowing me to make the svg version of the logo, if something bad happened I will adapt [the logo](https://imgur.com/a/QEd1p) of [JSCL](https://github.com/jscl-project/jscl)
+made by [Michał Herda](https://github.com/phoe).
 
 
